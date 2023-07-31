@@ -1,0 +1,23 @@
+{
+  "name": "tdd101",
+  "private":true,
+  "version": "1.0.0",
+  "description": "TDD Testing Repo",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilgramiraza/TDD101.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bilgramiraza/TDD101/issues"
+  },
+  "homepage": "https://github.com/bilgramiraza/TDD101#readme",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
